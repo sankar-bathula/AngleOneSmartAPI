@@ -1,0 +1,7 @@
+# Angle One Smart API & Markowitz Portfolio
+SmartApi  # or install from https://github.com/AngelOne-SmartAPI/smartapi-python
+pyotp
+pandas
+numpy
+scipy
+logzero
